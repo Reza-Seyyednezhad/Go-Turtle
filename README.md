@@ -49,9 +49,9 @@ Download Zip and Extract
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/YRLm5Pg)
-![App Screenshot](https://ibb.co/pbB7c2R)
-![App Screenshot](https://ibb.co/RHrzB4V)
+![App Screenshot](https://i.ibb.co/LkZmTYK/Shot-0004.png)
+![App Screenshot](https://i.ibb.co/ydc9t0Y/Shot-0005.png)
+![App Screenshot](https://i.ibb.co/ThjmbqF/Shot-0006.png)
 
 
 ## Authors
