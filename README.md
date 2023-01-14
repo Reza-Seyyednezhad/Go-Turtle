@@ -10,7 +10,7 @@ Go-Turtle is a gui game for kids and who is learning Turtle and don't have an id
 Download Zip and Extract
 
 ```CMD
-  Open CMD and cd 'Extract file address'
+  Open CMD and cd 'Extract folder address'
   In CMD: 
         python app.py
 ```
